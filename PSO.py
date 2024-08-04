@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load data from Excel
-data = pd.read_excel('PSO/data.xlsx', sheet_name='data.xlsx')
+data = pd.read_excel('PSODATA.xlsx', sheet_name='data.xlsx')
 
 
 # Extract parameters (replace 'Column' with actual column names or indices)
